@@ -1,2 +1,1 @@
-gunicorn web_page:app
-
+web: gunicorn mega_project.web_page:app
